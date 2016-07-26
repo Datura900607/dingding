@@ -131,7 +131,7 @@
 	left: 1rem;
 }
 .looks_block{
-	width: 100%;
+	width: 1260px;
 	position: absolute;
 	left:0;top:500px;
 	margin: 20px auto;
@@ -144,10 +144,13 @@
 	width: 0;height: 0;
 	visibility:hidden;
 }
+.info_s{
+	padding-left: 25px;
+}
 .info{
 	width: 220px;height: 160px;
 	float: left;
-	margin-right: 8px;
+	margin:0 10px;
 	background: #f0eff5 none repeat scroll 0 0;
 	border-radius: 2px;
 	color:#333;
