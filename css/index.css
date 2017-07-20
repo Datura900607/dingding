@@ -136,6 +136,7 @@
 	left:0;top:500px;
 	margin: 20px auto;
 	padding: 0 10px;
+	background-color: #4cae4c;
 }
 .info_s:after{
 	content: "";
