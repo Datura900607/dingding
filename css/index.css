@@ -134,9 +134,9 @@
 	width: 1260px;
 	position: absolute;
 	left:0;top:500px;
+	right: 0;
 	margin: 20px auto;
 	padding: 0 10px;
-	background-color: #4cae4c;
 }
 .info_s:after{
 	content: "";
